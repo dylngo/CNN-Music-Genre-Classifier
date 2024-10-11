@@ -60,7 +60,6 @@ This project contains a number of deliverables:
     for the model data
     download.sh - downloads the audio files into proper folders from kaggle
     run.sh - runs download.sh and convert spectrogram
-    asshole.svg - no idea, please forgive us
     sleep.sh - no clue
   How to run: **NOTE: this only needs to be run once to prepare data and traning environment, 
               it does not need to be run since the project is initialized**
